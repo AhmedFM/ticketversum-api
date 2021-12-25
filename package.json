@@ -1,0 +1,23 @@
+{
+  "name": "ticketversum-api",
+  "version": "1.0.0",
+  "description": "ticketversum-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedFM/ticketversum-api.git"
+  },
+  "author": "ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedFM/ticketversum-api/issues"
+  },
+  "homepage": "https://github.com/AhmedFM/ticketversum-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
