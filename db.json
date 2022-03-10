@@ -82,17 +82,23 @@
       "id": 1
     },
     {
-      "title": "new year event",
-      "location": "Bab Al Louq, Cairo Governorate",
-      "details": "welcome in new year 2022",
-      "description": "Gain valuable and actionable insight into the current and future landscape of: business, investment, trade, regulatory, wellness, cultivation, legalization, research, consumption, and more advancements, developments, and opportunities",
-      "seats": "230",
-      "start": "2022-01-01",
-      "end": "2022-01-02",
-      "photos": [
-        "https://via.placeholder.com/250"
-      ],
-      "tumbnail": "https://puroreggaeton.de/____impro/1/onewebmedia/Croatia%20Banner%20Kopie.jpg?etag=%22226d24-612395a3%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=718,404",
+      "brand": "https://i.postimg.cc/L5F97mvG/image-000.jpg",
+      "title": "OFFICIAL IMEX PARTY",
+      "location": "Frankfurt",
+      "details": "DRINK, DINE, & DANCE",
+      "description": "Together with EVINTRA, CIM - Conference & Incentive Management organises the official trade fair party of IMEX Frankfurt: CIMclubbing. This year, CIMclubbing @ imex will take place in the new Galeria Frankfurt restaurant. On the large roof terrace, with a view of the Frankfurt skyline, you can round off the first day of IMEX with dinner and drinks together with colleagues and customers. At a later hour, our DJ will invite you to the dance floor. Secure your tickets now!",
+      "seats": "300",
+      "facts": {
+        "date": "Tuesday 31-MAY-2022",
+        "start_time": "7pm",
+        "end_time": "",
+        "stages": "",
+        "shows": ""
+      },
+      "plans": [],
+      "tickets": [],
+      "photos": [],
+      "tumbnail": "https://i.postimg.cc/L5F97mvG/image-000.jpg",
       "id": 2
     }
   ]
