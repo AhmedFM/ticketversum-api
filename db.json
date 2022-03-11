@@ -34,6 +34,7 @@
   "events": [
     {
       "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
+      "host_place": "",
       "title": "pure reggaeton the Latin festival in Europe I croatia",
       "location": "Noa Beacg Club I Rocks Beach Club @ Zrce Beach I Novalja I Croatia",
       "details": "P U R O  R E G G A E T O N is coming back to croatia june 2022 to Zrce Beach directly to Noa Beach Club",
@@ -46,6 +47,8 @@
         "stages": "2 Stages at the Beach I Reggaeton & latin Sounds",
         "shows": "Boat Parties I Live and Dance Shows I Contests"
       },
+      "price": "€93.11 - €124.16",
+      "contributors": [],
       "plans": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
@@ -82,7 +85,8 @@
       "id": 1
     },
     {
-      "brand": "https://i.postimg.cc/L5F97mvG/image-000.jpg",
+      "brand": "",
+      "host_place": "#cimclubbing",
       "title": "OFFICIAL IMEX PARTY",
       "location": "Frankfurt",
       "details": "DRINK, DINE, & DANCE",
@@ -95,6 +99,11 @@
         "stages": "",
         "shows": ""
       },
+      "price": "€10",
+      "contributors": [
+        "https://www.imex-frankfurt.com/themes/custom/imex_frankfurt/logo.svg",
+        "https://d3q0rjg0segfeu.cloudfront.net/dist/img/1398ef6.png"
+      ],
       "plans": [],
       "tickets": [],
       "photos": [],
