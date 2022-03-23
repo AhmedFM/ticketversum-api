@@ -50,7 +50,7 @@
       "shows": "Boat Parties I Live and Dance Shows I Contests",
       "offers": "",
       "totalPrice": "€93.11 - €124.16",
-      "contributors": [],
+      "organizers": [],
       "eventSchedule": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
@@ -136,7 +136,7 @@
       },
       "priceCurrency": "Eruo",
       "totalPrice": "10",
-      "organizer": [
+      "organizers": [
         "https://www.imex-frankfurt.com/themes/custom/imex_frankfurt/logo.svg",
         "https://d3q0rjg0segfeu.cloudfront.net/dist/img/1398ef6.png"
       ],
