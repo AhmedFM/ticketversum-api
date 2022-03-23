@@ -41,6 +41,7 @@
       "preregistration": true,
       "description": "As the first Reggaeton Festival in Croatia for the 2nd time, we celebrate 3 Days in 2 Clubs directly at the Beach! So imagine you and your best friends.. Open Air... on the Beach, with cold Drinks and the hottest Reggaeton Music. Does it sounds nice? WILLKOMMEN IN NOVALJA Zrce Beach: Open Air Partys, Kristallklares Wasser. Einzigartiges Open-Air Festival-Feeling direkt am Strand.",
       "seats": "300",
+      "eventAttendanceMode": "offline",
       "facts": {
         "date": "16 - 19 June 2022",
         "start_time": "15:00",
@@ -51,7 +52,7 @@
       "video": "https://www.youtube.com/embed/cvgX-ZH78Eg",
       "price": "€93.11 - €124.16",
       "contributors": [],
-      "plans": [
+      "eventSchedule": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
           "title": "After Beach Party Open Air direkt im Club",
@@ -68,7 +69,9 @@
           "description": "Erkunde die wundervollen Küsten Kroatiens, bei der wohl verrücktesten Boat Party deines Lebens. Zusätzlich buchbar."
         }
       ],
-      "tickets": [
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "locations": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/zrce-noa-beach-club_300x300.jpg?v=1643594027",
           "title": "Das Festival direkt am Zrce Beach",
@@ -92,6 +95,7 @@
       "title": "OFFICIAL IMEX PARTY",
       "location": "Frankfurt",
       "details": "DRINK, DINE, & DANCE",
+      "eventAttendanceMode": "offline",
       "preregistration": false,
       "description": "Together with EVINTRA, CIM - Conference & Incentive Management organises the official trade fair party of IMEX Frankfurt: CIMclubbing. This year, CIMclubbing @ imex will take place in the new Galeria Frankfurt restaurant. On the large roof terrace, with a view of the Frankfurt skyline, you can round off the first day of IMEX with dinner and drinks together with colleagues and customers. At a later hour, our DJ will invite you to the dance floor. Secure your tickets now!",
       "seats": "300",
@@ -108,7 +112,10 @@
         "https://www.imex-frankfurt.com/themes/custom/imex_frankfurt/logo.svg",
         "https://d3q0rjg0segfeu.cloudfront.net/dist/img/1398ef6.png"
       ],
-      "plans": [],
+      "eventSchedule": [],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "locations": [],
       "tickets": [],
       "photos": [],
       "tumbnail": "https://i.postimg.cc/L5F97mvG/image-000.jpg",
