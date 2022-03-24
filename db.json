@@ -43,13 +43,14 @@
       "maximumAttendeeCapacity": 300,
       "eventAttendanceMode": "offline",
       "duration": "",
+      "priceCurrency": "Eruo",
       "dateTime": "16 - 19 June 2022",
       "startTime": "15:00",
       "endTime": "06:00",
       "stages": "2 Stages at the Beach I Reggaeton & latin Sounds",
       "shows": "Boat Parties I Live and Dance Shows I Contests",
       "offers": "",
-      "totalPrice": "€93.11 - €124.16",
+      "totalPrice": "93.11 - 124.16",
       "organizers": [],
       "eventSchedule": [
         {
@@ -96,17 +97,17 @@
           "info": "3 Day Festival Ticket I Croatia I Noa Beach Club Zrce Beach",
           "maximumAttendeeCapacity": 10,
           "days": 3,
-          "price": "€93.11",
+          "price": "93.11",
           "fees": "(€89.00 + €4.11 fees, including taxes)",
           "value": 0
         },
         {
           "type": "vip",
-          "label": "Vip - Festival Ticket",
+          "label": "Festival Ticket",
           "info": "",
           "maximumAttendeeCapacity": 10,
           "days": 3,
-          "price": "€93.11",
+          "price": "124.16",
           "fees": "(€119.00 + €5.16 fees, including taxes)",
           "value": 0
         }
@@ -130,15 +131,14 @@
       "stages": "",
       "shows": "",
       "eventMedia": {
-        "tumbnail": "https://i.postimg.cc/L5F97mvG/image-000.jpg",
+        "tumbnail": "https://i.postimg.cc/WbGMfHmg/Ticketing-359x334px.jpg",
         "photos": [],
         "videos": []
       },
       "priceCurrency": "Eruo",
       "totalPrice": "10",
       "organizers": [
-        "https://www.imex-frankfurt.com/themes/custom/imex_frankfurt/logo.svg",
-        "https://d3q0rjg0segfeu.cloudfront.net/dist/img/1398ef6.png"
+        "https://i.postimg.cc/sgJbyKzZ/1903x307px-removebg-preview.png"
       ],
       "eventSchedule": [],
       "eventStatus": "",
@@ -147,11 +147,11 @@
       "eventTickets": [
         {
           "type": "regular",
-          "label": "Festival Ticket",
-          "info": "3 Day Festival Ticket I Croatia I Noa Beach Club Zrce Beach",
+          "label": "EA Clubbing CIM_NEU Ticket",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
           "maximumAttendeeCapacity": 10,
           "days": 3,
-          "price": "93.11",
+          "price": "10",
           "fees": "(€89.00 + €4.11 fees, including taxes)",
           "value": 0
         }
