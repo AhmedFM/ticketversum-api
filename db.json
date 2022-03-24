@@ -146,8 +146,18 @@
       "subEventsplaces": [],
       "eventTickets": [
         {
+          "type": "Free",
+          "label": "EA Clubbing CIM_NEU",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "Free",
+          "fees": "",
+          "value": 0
+        },
+        {
           "type": "regular",
-          "label": "EA Clubbing CIM_NEU Ticket",
+          "label": "EA Clubbing CIM_NEU",
           "info": "31-MAY-2022 GALERIA Frankfurt",
           "maximumAttendeeCapacity": 10,
           "days": 3,
