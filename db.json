@@ -152,7 +152,7 @@
           "maximumAttendeeCapacity": 10,
           "days": 3,
           "price": "10",
-          "fees": "(€89.00 + €4.11 fees, including taxes)",
+          "fees": "(10.00 + 4.11 fees, including taxes)",
           "value": 0
         }
       ],
