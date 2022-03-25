@@ -34,7 +34,8 @@
   "events": [
     {
       "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
-      "host_place": "",
+      "reservationType": "get ticket",
+      "eventTag": "",
       "title": "pure reggaeton the Latin festival in Europe I croatia",
       "location": "Noa Beacg Club I Rocks Beach Club @ Zrce Beach I Novalja I Croatia",
       "details": "P U R O  R E G G A E T O N is coming back to croatia june 2022 to Zrce Beach directly to Noa Beach Club",
@@ -47,6 +48,7 @@
       "dateTime": "16 - 19 June 2022",
       "startTime": "15:00",
       "endTime": "06:00",
+      "hostPlace": "",
       "stages": "2 Stages at the Beach I Reggaeton & latin Sounds",
       "shows": "Boat Parties I Live and Dance Shows I Contests",
       "offers": "",
@@ -116,7 +118,8 @@
     },
     {
       "brand": "",
-      "host_place": "#cimclubbing",
+      "reservationType": "request table reservation",
+      "eventTag": "#cimclubbing",
       "title": "OFFICIAL IMEX PARTY",
       "location": "Zeil 116-126, 60313 Frankfurt am Main, Germany",
       "details": "DRINK, DINE, & DANCE",
@@ -129,6 +132,7 @@
       "startTime": "7pm",
       "endTime": "",
       "stages": "",
+      "hostPlace": "Galeria Rooftop Restaurant",
       "shows": "",
       "eventMedia": {
         "tumbnail": "https://i.postimg.cc/WbGMfHmg/Ticketing-359x334px.jpg",
@@ -146,7 +150,7 @@
       "subEventsplaces": [],
       "eventTickets": [
         {
-          "type": "Free",
+          "type": "free",
           "label": "EA Clubbing CIM_NEU",
           "info": "31-MAY-2022 GALERIA Frankfurt",
           "maximumAttendeeCapacity": 10,
