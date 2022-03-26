@@ -34,7 +34,7 @@
   "events": [
     {
       "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
-      "reservationType": "get ticket",
+      "reservationTable": false,
       "eventTag": "",
       "title": "pure reggaeton the Latin festival in Europe I croatia",
       "location": "Noa Beacg Club I Rocks Beach Club @ Zrce Beach I Novalja I Croatia",
@@ -118,7 +118,7 @@
     },
     {
       "brand": "",
-      "reservationType": "request table reservation",
+      "reservationTable": true,
       "eventTag": "#cimclubbing",
       "title": "OFFICIAL IMEX PARTY",
       "location": "Zeil 116-126, 60313 Frankfurt am Main, Germany",
