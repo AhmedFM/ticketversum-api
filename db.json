@@ -254,7 +254,7 @@
           "value": 0
         }
       ],
-      "id": 1
+      "id": 3
     },
     {
       "brand": "",
@@ -310,7 +310,7 @@
           "value": 0
         }
       ],
-      "id": 2
+      "id": 4
     },
     {
       "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
@@ -394,7 +394,7 @@
           "value": 0
         }
       ],
-      "id": 1
+      "id": 5
     },
     {
       "brand": "",
@@ -450,7 +450,7 @@
           "value": 0
         }
       ],
-      "id": 2
+      "id": 6
     }
   ]
 }
