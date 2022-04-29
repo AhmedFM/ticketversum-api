@@ -171,6 +171,286 @@
         }
       ],
       "id": 2
+    },
+    {
+      "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
+      "reservationTable": false,
+      "eventTag": "",
+      "title": "pure reggaeton the Latin festival in Europe I croatia",
+      "location": "Noa Beacg Club I Rocks Beach Club @ Zrce Beach I Novalja I Croatia",
+      "details": "P U R O  R E G G A E T O N is coming back to croatia june 2022 to Zrce Beach directly to Noa Beach Club",
+      "preregistration": true,
+      "description": "As the first Reggaeton Festival in Croatia for the 2nd time, we celebrate 3 Days in 2 Clubs directly at the Beach! So imagine you and your best friends.. Open Air... on the Beach, with cold Drinks and the hottest Reggaeton Music. Does it sounds nice? WILLKOMMEN IN NOVALJA Zrce Beach: Open Air Partys, Kristallklares Wasser. Einzigartiges Open-Air Festival-Feeling direkt am Strand.",
+      "maximumAttendeeCapacity": 300,
+      "eventAttendanceMode": "offline",
+      "duration": "",
+      "priceCurrency": "Eruo",
+      "dateTime": "16 - 19 June 2022",
+      "startTime": "15:00",
+      "endTime": "06:00",
+      "hostPlace": "",
+      "stages": "2 Stages at the Beach I Reggaeton & latin Sounds",
+      "shows": "Boat Parties I Live and Dance Shows I Contests",
+      "offers": "",
+      "totalPrice": "93.11 - 124.16",
+      "organizers": [],
+      "eventSchedule": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
+          "title": "After Beach Party Open Air direkt im Club",
+          "description": "Erlebe das einmalige Festival Feeling unter der Sonne Kroatiens all Day & Night long"
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/noa-beach-main-floor_360x.jpg?v=1643659016",
+          "title": "Noa Beach Club Hauptbühne",
+          "description": "Dich erwarten : Dance Shows, Live Performances, Crazy Light Shows, Dance Contests und vieles mehr.."
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/boat-1_360x.jpg?v=1643659468",
+          "title": "Boat Party am Freitag 17.06.022",
+          "description": "Erkunde die wundervollen Küsten Kroatiens, bei der wohl verrücktesten Boat Party deines Lebens. Zusätzlich buchbar."
+        }
+      ],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/zrce-noa-beach-club_300x300.jpg?v=1643594027",
+          "title": "Das Festival direkt am Zrce Beach",
+          "description": "Einzigartige Location - Einzigartiges Erlebnis! Welcome to NOA Beach Club Kroatien !"
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/NOA-BEACH_300x300.jpg?v=1643657374",
+          "title": "Zrce Beach Kroatien",
+          "description": "Dein Latin Festival direkt am Strand! Erlebe den Sommer deines Lebens, den du so schnell nicht vergessen wirst. Und das 3 Tage lang!"
+        }
+      ],
+      "eventMedia": {
+        "tumbnail": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/238313864_5891664987574606_7038056779538317733_n_1280x.jpg?v=1643594277",
+        "photos": [
+          "https://via.placeholder.com/250"
+        ],
+        "videos": ["https://www.youtube.com/embed/cvgX-ZH78Eg"]
+      },
+      "eventTickets": [
+        {
+          "type": "regular",
+          "label": "Festival Ticket",
+          "info": "3 Day Festival Ticket I Croatia I Noa Beach Club Zrce Beach",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "93.11",
+          "fees": "(€89.00 + €4.11 fees, including taxes)",
+          "value": 0
+        },
+        {
+          "type": "vip",
+          "label": "Festival Ticket",
+          "info": "",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "124.16",
+          "fees": "(€119.00 + €5.16 fees, including taxes)",
+          "value": 0
+        }
+      ],
+      "id": 1
+    },
+    {
+      "brand": "",
+      "reservationTable": true,
+      "eventTag": "#cimclubbing",
+      "title": "OFFICIAL IMEX PARTY",
+      "location": "Zeil 116-126, 60313 Frankfurt am Main, Germany",
+      "details": "DRINK, DINE & DANCE",
+      "eventAttendanceMode": "offline",
+      "preregistration": false,
+      "description": "Together with EVINTRA, CIM - Conference & Incentive Management organises the official trade fair party of IMEX Frankfurt: CIMclubbing. This year, CIMclubbing @ imex will take place in the new Galeria Frankfurt restaurant. On the large roof terrace, with a view of the Frankfurt skyline, you can round off the first day of IMEX with dinner and drinks together with colleagues and customers. At a later hour, our DJ will invite you to the dance floor. Secure your tickets now!",
+      "maximumAttendeeCapacity": 20,
+      "duration": "",
+      "dateTime": "Tuesday 31-MAY-2022",
+      "startTime": "7pm",
+      "endTime": "",
+      "stages": "",
+      "hostPlace": "Galeria Rooftop Restaurant",
+      "shows": "",
+      "eventMedia": {
+        "tumbnail": "https://i.postimg.cc/WbGMfHmg/Ticketing-359x334px.jpg",
+        "photos": [],
+        "videos": []
+      },
+      "priceCurrency": "Eruo",
+      "totalPrice": "10",
+      "organizers": [
+        "https://i.postimg.cc/WzxBQ2nR/event-Asset-14.png"
+      ],
+      "eventSchedule": [],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [],
+      "eventTickets": [
+        {
+          "type": "free",
+          "label": "EA Clubbing CIM_NEU",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "Free",
+          "fees": "",
+          "value": 0
+        },
+        {
+          "type": "regular",
+          "label": "EA Clubbing CIM_NEU",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "10",
+          "fees": "(10.00 + 4.11 fees, including taxes)",
+          "value": 0
+        }
+      ],
+      "id": 2
+    },
+    {
+      "brand": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/Puro-Reggaeton-Logo-PNG_180x.jpg?v=1643682062",
+      "reservationTable": false,
+      "eventTag": "",
+      "title": "pure reggaeton the Latin festival in Europe I croatia",
+      "location": "Noa Beacg Club I Rocks Beach Club @ Zrce Beach I Novalja I Croatia",
+      "details": "P U R O  R E G G A E T O N is coming back to croatia june 2022 to Zrce Beach directly to Noa Beach Club",
+      "preregistration": true,
+      "description": "As the first Reggaeton Festival in Croatia for the 2nd time, we celebrate 3 Days in 2 Clubs directly at the Beach! So imagine you and your best friends.. Open Air... on the Beach, with cold Drinks and the hottest Reggaeton Music. Does it sounds nice? WILLKOMMEN IN NOVALJA Zrce Beach: Open Air Partys, Kristallklares Wasser. Einzigartiges Open-Air Festival-Feeling direkt am Strand.",
+      "maximumAttendeeCapacity": 300,
+      "eventAttendanceMode": "offline",
+      "duration": "",
+      "priceCurrency": "Eruo",
+      "dateTime": "16 - 19 June 2022",
+      "startTime": "15:00",
+      "endTime": "06:00",
+      "hostPlace": "",
+      "stages": "2 Stages at the Beach I Reggaeton & latin Sounds",
+      "shows": "Boat Parties I Live and Dance Shows I Contests",
+      "offers": "",
+      "totalPrice": "93.11 - 124.16",
+      "organizers": [],
+      "eventSchedule": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
+          "title": "After Beach Party Open Air direkt im Club",
+          "description": "Erlebe das einmalige Festival Feeling unter der Sonne Kroatiens all Day & Night long"
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/noa-beach-main-floor_360x.jpg?v=1643659016",
+          "title": "Noa Beach Club Hauptbühne",
+          "description": "Dich erwarten : Dance Shows, Live Performances, Crazy Light Shows, Dance Contests und vieles mehr.."
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/boat-1_360x.jpg?v=1643659468",
+          "title": "Boat Party am Freitag 17.06.022",
+          "description": "Erkunde die wundervollen Küsten Kroatiens, bei der wohl verrücktesten Boat Party deines Lebens. Zusätzlich buchbar."
+        }
+      ],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/zrce-noa-beach-club_300x300.jpg?v=1643594027",
+          "title": "Das Festival direkt am Zrce Beach",
+          "description": "Einzigartige Location - Einzigartiges Erlebnis! Welcome to NOA Beach Club Kroatien !"
+        },
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/NOA-BEACH_300x300.jpg?v=1643657374",
+          "title": "Zrce Beach Kroatien",
+          "description": "Dein Latin Festival direkt am Strand! Erlebe den Sommer deines Lebens, den du so schnell nicht vergessen wirst. Und das 3 Tage lang!"
+        }
+      ],
+      "eventMedia": {
+        "tumbnail": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/238313864_5891664987574606_7038056779538317733_n_1280x.jpg?v=1643594277",
+        "photos": [
+          "https://via.placeholder.com/250"
+        ],
+        "videos": ["https://www.youtube.com/embed/cvgX-ZH78Eg"]
+      },
+      "eventTickets": [
+        {
+          "type": "regular",
+          "label": "Festival Ticket",
+          "info": "3 Day Festival Ticket I Croatia I Noa Beach Club Zrce Beach",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "93.11",
+          "fees": "(€89.00 + €4.11 fees, including taxes)",
+          "value": 0
+        },
+        {
+          "type": "vip",
+          "label": "Festival Ticket",
+          "info": "",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "124.16",
+          "fees": "(€119.00 + €5.16 fees, including taxes)",
+          "value": 0
+        }
+      ],
+      "id": 1
+    },
+    {
+      "brand": "",
+      "reservationTable": true,
+      "eventTag": "#cimclubbing",
+      "title": "OFFICIAL IMEX PARTY",
+      "location": "Zeil 116-126, 60313 Frankfurt am Main, Germany",
+      "details": "DRINK, DINE & DANCE",
+      "eventAttendanceMode": "offline",
+      "preregistration": false,
+      "description": "Together with EVINTRA, CIM - Conference & Incentive Management organises the official trade fair party of IMEX Frankfurt: CIMclubbing. This year, CIMclubbing @ imex will take place in the new Galeria Frankfurt restaurant. On the large roof terrace, with a view of the Frankfurt skyline, you can round off the first day of IMEX with dinner and drinks together with colleagues and customers. At a later hour, our DJ will invite you to the dance floor. Secure your tickets now!",
+      "maximumAttendeeCapacity": 20,
+      "duration": "",
+      "dateTime": "Tuesday 31-MAY-2022",
+      "startTime": "7pm",
+      "endTime": "",
+      "stages": "",
+      "hostPlace": "Galeria Rooftop Restaurant",
+      "shows": "",
+      "eventMedia": {
+        "tumbnail": "https://i.postimg.cc/WbGMfHmg/Ticketing-359x334px.jpg",
+        "photos": [],
+        "videos": []
+      },
+      "priceCurrency": "Eruo",
+      "totalPrice": "10",
+      "organizers": [
+        "https://i.postimg.cc/WzxBQ2nR/event-Asset-14.png"
+      ],
+      "eventSchedule": [],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [],
+      "eventTickets": [
+        {
+          "type": "free",
+          "label": "EA Clubbing CIM_NEU",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "Free",
+          "fees": "",
+          "value": 0
+        },
+        {
+          "type": "regular",
+          "label": "EA Clubbing CIM_NEU",
+          "info": "31-MAY-2022 GALERIA Frankfurt",
+          "maximumAttendeeCapacity": 10,
+          "days": 3,
+          "price": "10",
+          "fees": "(10.00 + 4.11 fees, including taxes)",
+          "value": 0
+        }
+      ],
+      "id": 2
     }
   ]
 }
