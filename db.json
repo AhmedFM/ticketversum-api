@@ -240,10 +240,10 @@
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
-          "nights": 1,
+          "nights": 0,
           "price": "99.90",
           "currency": "€",
-          "maximumAttendeeCapacity": 3,
+          "maximumAttendeeCapacity": 2,
           "fees": "(including taxes)"
         },
         {
@@ -255,10 +255,10 @@
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
-          "nights": 1,
+          "nights": 0,
           "price": "99.90",
           "currency": "€",
-          "maximumAttendeeCapacity": 3,
+          "maximumAttendeeCapacity": 4,
           "fees": "(including taxes)"
         },
         {
@@ -270,10 +270,10 @@
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
-          "nights": 1,
+          "nights": 0,
           "price": "99.90",
           "currency": "€",
-          "maximumAttendeeCapacity": 3,
+          "maximumAttendeeCapacity": 4,
           "fees": "(including taxes)"
         }
       ],
