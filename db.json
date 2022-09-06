@@ -44,7 +44,7 @@
       "maximumAttendeeCapacity": 300,
       "eventAttendanceMode": "offline",
       "duration": "",
-      "priceCurrency": "Eruo",
+      "priceCurrency": "€",
       "dateTime": "16 - 19 June 2022",
       "startTime": "15:00",
       "endTime": "06:00",
@@ -140,7 +140,7 @@
         "photos": [],
         "videos": []
       },
-      "priceCurrency": "Eruo",
+      "priceCurrency": "€",
       "totalPrice": "10",
       "organizers": [
         "https://i.postimg.cc/WzxBQ2nR/event-Asset-14.png"
