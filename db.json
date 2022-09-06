@@ -175,8 +175,8 @@
       "id": 2
     },
     {
-      "brand": "",
-      "reservationTable": true,
+      "brand": "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/brand_image/1786/2l0Xa3vArGaJ1benwbfIwwDJ22g9enTMEkf9qqv9.jpg",
+      "reservationTable": false,
       "eventTag": "#CIMCLUBBING",
       "title": "Panama - Puro Reggaeton Open Air Festival 2023",
       "location": "Hotel El Panama",
@@ -193,7 +193,7 @@
       "hostPlace": "Galeria Rooftop Restaurant",
       "shows": "",
       "eventMedia": {
-        "tumbnail": "https://i.postimg.cc/WbGMfHmg/Ticketing-359x334px.jpg",
+        "tumbnail": "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg",
         "photos": [],
         "videos": []
       },
@@ -235,8 +235,8 @@
           "type": "Standard Room",
           "info": "",
           "images": [
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png",
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png"
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg",
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg"
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
@@ -250,8 +250,8 @@
           "type": "Poolside VIP Room",
           "info": "",
           "images": [
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png",
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png"
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg",
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg"
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
@@ -265,8 +265,8 @@
           "type": "Puro VIP Room",
           "info": "",
           "images": [
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png",
-            "https://i.postimg.cc/9QZ1JZ1T/Hotel-Asset-1.png"
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg",
+            "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/image/1785/c/kA6Pqat4qH0rAcSciAn1TgOpZu66eWN7xw6z8zz7-show-thumb.jpg"
           ],
           "checkIn": "20 January 2023",
           "checkOut": "23 January 2023",
