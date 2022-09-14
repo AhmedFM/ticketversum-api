@@ -119,6 +119,7 @@
     },
     {
       "brand": "",
+      "isEvintraProduct": true,
       "reservationTable": true,
       "eventTag": "#cimclubbing",
       "title": "OFFICIAL IMEX PARTY",
@@ -176,6 +177,7 @@
     },
     {
       "brand": "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/brand_image/1786/2l0Xa3vArGaJ1benwbfIwwDJ22g9enTMEkf9qqv9.jpg",
+      "isEvintraProduct": true,
       "reservationTable": false,
       "eventTag": "#CIMCLUBBING",
       "title": "Panama - Puro Reggaeton Open Air Festival 2023",
@@ -199,9 +201,7 @@
       },
       "priceCurrency": "Eruo",
       "totalPrice": "10",
-      "organizers": [
-        "https://ticketversum.com/images/evintra-cim.jpeg?83192c9fadf7c8748cd9e094dbdb1dbb"
-      ],
+      "organizers": [],
       "eventSchedule": [],
       "eventStatus": "",
       "isAccessibleForFree": false,
