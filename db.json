@@ -177,7 +177,7 @@
     },
     {
       "brand": "https://ticketversum.s3.eu-central-1.amazonaws.com/event/2/brand_image/1786/2l0Xa3vArGaJ1benwbfIwwDJ22g9enTMEkf9qqv9.jpg",
-      "isEvintraProduct": true,
+      "isEvintraProduct": false,
       "reservationTable": false,
       "eventTag": "#CIMCLUBBING",
       "title": "Panama - Puro Reggaeton Open Air Festival 2023",
