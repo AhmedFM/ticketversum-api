@@ -55,6 +55,7 @@
       "offers": "",
       "totalPrice": "93.11 - 124.16",
       "organizers": [],
+      "eventLinks": [],
       "eventSchedule": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0358/9446/0553/files/after-beach_360x.jpg?v=1643658947",
@@ -147,6 +148,7 @@
       "organizers": [
         "https://i.postimg.cc/WzxBQ2nR/event-Asset-14.png"
       ],
+      "eventLinks": [],
       "eventSchedule": [],
       "eventStatus": "",
       "isAccessibleForFree": false,
