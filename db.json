@@ -183,7 +183,7 @@
       "eventTag": "#CIMCLUBBING",
       "title": "Panama - Puro Reggaeton Open Air Festival 2023",
       "location": "Country: Panama | City: Panama City Latin America | Hotel El Panama",
-      "details": "the latin festival experience in Panama City",
+      "details": "The latin festival experience in Panama City",
       "eventAttendanceMode": "offline",
       "preregistration": false,
       "description": "espues de contistar europa con mas de 12 anos y 2 Milliones de visitandes , llegamos por fin a Latino America a la Capital de PANAMA city. PURO REGGAETON ¡La fiesta para todos! encarna los ritmos calientes del Caribe y América Latina! en la mejor combinación con la música Urbana, estamos ampliando enormemente nuestro público objetivo. Sé parte de la familia Puro Reggaeton y celebra como nunca antes lo has hecho! PURO es más que una fiesta - PURO es una experiencia!",
@@ -207,11 +207,10 @@
         {
           "url": "https://www.puroreggaeton.de",
           "label": "Website"
-        }
-      ],
-      "eventEmails": [
+        },
         {
-          "email": "info@puroreggaeton.de"
+          "url": "info@puroreggaeton.de",
+          "label": "Email"
         }
       ],
       "eventSchedule": [
