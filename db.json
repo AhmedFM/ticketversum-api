@@ -337,10 +337,7 @@
       "totalPrice": "10",
       "organizers": [],
       "eventLinks": [],
-      "eventSchedule": [],
-      "eventStatus": "",
-      "isAccessibleForFree": false,
-      "subEventsplaces": [
+      "eventSchedule": [
         {
           "image": "https://i.postimg.cc/bNVW8yKf/Mega-Discostadl.webp",
           "title": "Mega disco bar",
@@ -352,6 +349,9 @@
           "description": ""
         }
       ],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [],
       "eventTickets": [
         {
           "type": "",
