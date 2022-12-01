@@ -307,6 +307,66 @@
         }
       ],
       "id": 3
+    },
+    {
+      "brand": "",
+      "isEvintraProduct": false,
+      "reservationTable": false,
+      "eventTag": "#CIMCLUBBING",
+      "title": "PBIG PARTY XXL - 90er, 2000er, LatinBeats, Sandungueo",
+      "location": "Frankfurt Alt Sachsenhausen",
+      "details": "The longest night in Frankfurt Alt Sachsenhausen with the Big Party XXL.",
+      "eventAttendanceMode": "offline",
+      "preregistration": false,
+      "description": "4 parties 1 night 2 clubs",
+      "maximumAttendeeCapacity": 20,
+      "duration": "1 Night",
+      "dateTime": "Friday December 23, 2022",
+      "startTime": "22:00",
+      "endTime": "",
+      "stages": "",
+      "music": "90er, 2000er, LatinBeats, Sandungueo",
+      "hostPlace": "Mega disco bar & Club Extra Frankfurt Klappergasse, 60594 Frankfurt am Main",
+      "shows": "",
+      "eventMedia": {
+        "tumbnail": "https://i.postimg.cc/8cxpn2Q2/Final-flyer-Big-Party-XL.jpg",
+        "photos": [],
+        "videos": []
+      },
+      "priceCurrency": "Eruo",
+      "totalPrice": "10",
+      "organizers": [],
+      "eventLinks": [],
+      "eventSchedule": [],
+      "eventStatus": "",
+      "isAccessibleForFree": false,
+      "subEventsplaces": [
+        {
+          "image": "https://i.postimg.cc/bNVW8yKf/Mega-Discostadl.webp",
+          "title": "Mega disco bar",
+          "description": ""
+        },
+        {
+          "image": "https://i.postimg.cc/0QZZfZv1/Club-Extra-Frankfurt.jpg",
+          "title": "Club Extra Frankfurt",
+          "description": ""
+        }
+      ],
+      "eventTickets": [
+        {
+          "type": "",
+          "label": "Entry Ticket",
+          "info": "",
+          "maximumAttendeeCapacity": 10,
+          "days": 1,
+          "price": "10.00",
+          "currency": "€",
+          "fees": "(including taxes)",
+          "value": 0
+        }
+      ],
+      "hotelRooms": [],
+      "id": 312
     }
   ]
 }
