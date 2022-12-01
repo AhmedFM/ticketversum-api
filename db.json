@@ -354,8 +354,8 @@
       "subEventsplaces": [],
       "eventTickets": [
         {
-          "type": "",
-          "label": "Entry Ticket",
+          "type": "Party",
+          "label": "Ticket",
           "info": "",
           "maximumAttendeeCapacity": 10,
           "days": 1,
